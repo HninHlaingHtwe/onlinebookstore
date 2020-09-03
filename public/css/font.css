@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'logo';
+	src:url(fonts/LexenDeca-Regular.ttf);
+}
+
+@font-face{
+	font-family: 'all';
+	src:url(fonts/MarckScript-Regular.ttf);
+}
+@font-face 
+{
+  font-family:'Unicode';
+  src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.woff') format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/mon3.ttf') format('ttf');
+}
